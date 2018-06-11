@@ -12,7 +12,7 @@ public class Exercicio4 {
 
         ArrayList<Integer> numeros = new ArrayList<>();
         
-        int quantidade = 50;
+        int quantidade = 10;
         for (int i = 0; i < 10; i++) {
             numeros.add(quantidade++);
             System.out.println("Completos\n"
