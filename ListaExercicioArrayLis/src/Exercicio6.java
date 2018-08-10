@@ -1,4 +1,3 @@
-package exercicio6;
 
 import javax.swing.ImageIcon;
 import java.util.ArrayList;
